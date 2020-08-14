@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "all": "All",
+    "attended": "Attended",
+    "trash": "Trash",
+    "loading": "Loading...",
+    "load more": "Load more",
+    "find": "Find",
+    "Hi, my name is": "Hi, my name is",
+    "My e-mail is": "My e-mail is",
+    "My birthday is": "My birthday is",
+    "My address is": "My address is",
+    "My phone is": "My phone is",
+    "My password is": "My password id",
+    "Candidate not found": "Candidate not found",
+    "No data found": "No data found"
+  }
+}
